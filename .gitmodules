@@ -1,0 +1,3 @@
+[submodule "dr-quine"]
+	path = dr-quine
+	url = git@github.com:STC71/42_dr-quine.git
