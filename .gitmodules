@@ -1,3 +1,6 @@
 [submodule "dr-quine"]
 	path = dr-quine
 	url = https://github.com/STC71/42_dr-quine.git
+[submodule "woody-woodpacker"]
+	path = woody-woodpacker
+	url = git@github.com:STC71/42_woody-woodpacker.git
