@@ -45,6 +45,6 @@ Estos proyectos sirven como introducción fundamental a temas más avanzados de 
 
 <div align="center">
 
-[⬅️ Volver al repositorio principal](../)
+[⬅️ Volver al repositorio principal](../README.md)
 
 </div>
