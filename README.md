@@ -16,6 +16,17 @@ Exploración profunda del teorema de recursión de Kleene a través de la creaci
 
 **Stack:** C, Assembly x86-64 (NASM), Shell Scripting
 
+### [🐴 ft_shield](./ft_shield/) - Troyano con daemon persistente, acceso remoto y shell root
+Es un proyecto educativo de los campus 42 (específicamente del "virus branch" o rama avanzada de sistemas). Se trata de una implementación sencilla de un Trojan horse (caballo de Troya) escrito en C, con varias técnicas de ofuscación, persistencia y control remoto.
+
+**Características destacadas:**
+
+- 📦 `ft_packer`: Empaqueta y encripta un binario para ofuscarlo.
+- 💉 `ft_shield`: Troyano empaquetado que se instala a sí mismo. 
+- 🧑🏻‍💻 `ft_spear`: Cliente remoto para conectarse a ft_shield. 
+
+**Stack:** C, System & Kernel, Network Communication, Daemon Process
+
 ### [🌲 Woody Woodpacker](./woody-woodpacker/) - Inyección ELF y Criptografía
 Desarrollo de un packer/crypter polimórfico. El programa inyecta un payload en ensamblador dentro de las Code Caves de archivos ELF de 64 bits ajenos y los cifra utilizando matemáticas simétricas RC4.
 **Estado:** ✅ Completado
@@ -27,6 +38,7 @@ Desarrollo de un packer/crypter polimórfico. El programa inyecta un payload en 
 - 🧠 Documentación exhaustiva en español de la deconstrucción de cabeceras **ELF64**.
 
 **Stack:** C, Assembly x86-64 (NASM), Bash avanzado (Testing)
+
 
 ---
 

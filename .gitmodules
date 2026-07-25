@@ -4,3 +4,7 @@
 [submodule "woody-woodpacker"]
 	path = woody-woodpacker
 	url = git@github.com:STC71/42_woody-woodpacker.git
+[submodule "ft_shield"]
+	path = ft_shield
+	url = https://github.com/STC71/42_ft_shield.git
+	branch = main
